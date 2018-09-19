@@ -1,2 +1,2 @@
 # miniGit
-modified version of git implemented in Java
+modified version of git (a version control system) implemented in Java
